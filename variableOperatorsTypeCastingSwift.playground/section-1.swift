@@ -56,7 +56,7 @@ var areaOfCircle = pi * Double(radius * radius) //radius is Int to typecast as D
 var circumference = 2 * pi * Double(radius)     // 2 * pi x radius = circumference
 println("Area: \(areaOfCircle)")
 println("Circumference: \(circumference)")
-
+// ------------ END ------------
 
 
 
